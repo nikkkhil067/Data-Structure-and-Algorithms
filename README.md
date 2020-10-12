@@ -4,6 +4,10 @@
 
 # [Maths](https://github.com/nikkkhil067/Data-Structure-And-Algorithms/tree/main/Maths)
 
+# [BITS](https://github.com/nikkkhil067/Data-Structure-And-Algorithms/tree/main/BITS)
+
+# [Strings](https://github.com/nikkkhil067/Data-Structure-And-Algorithms/tree/main/Strings)
+
 # Big O Notation Performance 
 | Big O Notation | Computations for 10 elements | Computations for 100 elements | Computations for 1000 elements  |
 | -------------- | ---------------------------- | ----------------------------- | ------------------------------- |
@@ -29,8 +33,6 @@
 | **Heap Sort**	     | Ω(n log(n))	| Θ(n log(n)) |	O(n log(n)) |
 | **Radix Sort**	   | Ω(nk)	      | Θ(nk)       |	O(nk)       |
 | **Bucket Sort**    |	Ω(n+k)	    | Θ(n+k)	    | O(n^2)      |
-
-
 
 # Running the code's 
 CPP <pre>g++ [filename.cpp]<br>./a.out # unix<br>a.exe # windows</pre>
