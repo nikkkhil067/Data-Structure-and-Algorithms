@@ -10,6 +10,8 @@
 
 # [Hashing](https://github.com/nikkkhil067/Data-Structure-And-Algorithms/tree/main/Hashing)
 
+# [Linked List](https://github.com/nikkkhil067/Data-Structure-And-Algorithms/tree/main/Linked%20List)
+
 # Big O Notation Performance 
 | Big O Notation | Computations for 10 elements | Computations for 100 elements | Computations for 1000 elements  |
 | -------------- | ---------------------------- | ----------------------------- | ------------------------------- |
