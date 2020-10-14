@@ -46,5 +46,9 @@ CPP <pre>g++ [filename.cpp]<br>./a.out # unix<br>a.exe # windows</pre>
 * [Youtube - take U forward(Placement Series)](https://www.youtube.com/playlist?list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma)
 * [Youtube - Love Babbar(Placement Series)](https://www.youtube.com/playlist?list=PL4PCksYQGLJM2mKe1n8LnFgcm3FRLhxZ9)
 
+# Question's
+Link 1 --> [](https://drive.google.com/file/d/1zSbrOrVBzUtItbMtRnrFeBJrER12bVT6/view) 
+Link 2 --> [](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
+
 # License
 This repository is under the **Apache License 2.0**
