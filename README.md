@@ -14,6 +14,8 @@
 
 # [Stack and Queues](https://github.com/nikkkhil067/Data-Structure-And-Algorithms/tree/main/Stack%20and%20Queues)
 
+# [Binary Search Tree](https://github.com/nikkkhil067/Data-Structure-And-Algorithms/tree/main/Binary%20Search%20Tree)
+
 # Big O Notation Performance 
 | Big O Notation | Computations for 10 elements | Computations for 100 elements | Computations for 1000 elements  |
 | -------------- | ---------------------------- | ----------------------------- | ------------------------------- |
