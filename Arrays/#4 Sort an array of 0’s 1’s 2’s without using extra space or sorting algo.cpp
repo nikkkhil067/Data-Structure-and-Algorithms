@@ -7,31 +7,31 @@ int main(){
     while(t--){
         int n;
         cin>>n;
-        int arr[n];
+        int a[n];
         for(int i=0;i<n;i++){
-            cin>>arr[i];
+            cin>>a[i];
         }
         int c0 = 0, c1 = 0, c2 = 0; 
         for(int i=0;i<n;i++){
-            if(arr[i]==0)
+            if(a[i]==0)
                 c0++;
-            else if(arr[i]==1)
+            else if(a[i]==1)
                 c1++;
             else
                 c2++;
         }
         int k=0;
         for(int i=0;i<c0;i++){
-            arr[k++]=0;
+            a[k++]=0;
         }
         for(int i=0;i<c1;i++){
-            arr[k++]=1;
+            a[k++]=1;
         }
         for(int i=0;i<c2;i++){
-            arr[k++]=2;
+            a[k++]=2;
         }
         for(int i=0;i<n;i++){
-            cout<<arr[i]<<" ";
+            cout<<a[i]<<" ";
         }
         cout<<endl;
     }
